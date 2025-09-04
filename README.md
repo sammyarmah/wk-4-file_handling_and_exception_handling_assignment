@@ -1,4 +1,4 @@
-### 📂 File Read & Write Program
+#### 📂 File Read & Write Program
 
 This project demonstrates **basic file handling in Python**. It shows how to:
 
@@ -8,7 +8,7 @@ This project demonstrates **basic file handling in Python**. It shows how to:
 
 ---
 
-### 🚀 How It Works
+#### 🚀 How It Works
 
 1. **File Creation**
    The program first creates a new file called `randomFile.txt` and writes some text into it.
@@ -24,7 +24,7 @@ This project demonstrates **basic file handling in Python**. It shows how to:
 
 ---
 
-### 📝 Example Usage
+#### 📝 Example Usage
 
 ```bash
 Enter the name of the file here.
@@ -50,14 +50,14 @@ File not found. Please check the filename.
 
 ---
 
-### ⚙️ Requirements
+#### ⚙️ Requirements
 
 * Python 3.x
 * No external libraries required
 
 ---
 
-### 💡 Key Concepts Learned
+#### 💡 Key Concepts Learned
 
 * Using `open()` with different modes:
 
@@ -65,7 +65,3 @@ File not found. Please check the filename.
   * `'r'` → read mode
 * Reading file content with `.read()`
 * Exception handling with `try ... except` for missing files
-
----
-
-Do you want me to also add **setup + run instructions** (like how to run it step by step for a beginner)?
